@@ -16,6 +16,13 @@
 
   background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
 
+
+  .h1{
+    display: flex;
+    align-items: center;
+  color :antiquewhite
+  
+}
   
 }
 .container .search-box {
